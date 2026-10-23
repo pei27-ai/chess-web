@@ -1,0 +1,6 @@
+PythonProject1
+├─ main.py
+├─ requirements.txt
+├─ README.md
+└─ templates   ← 文件夹
+    └─ chess.html
